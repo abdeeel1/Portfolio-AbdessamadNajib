@@ -2,7 +2,8 @@
 
 A sleek, modern, and highly interactive developer portfolio. Built with a focus on **User Experience (UX)** and **Performance**.
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f14a66f7-3527-4afe-82ad-20e4bd6b6c12" />
+<img width="1350" height="768" alt="image" src="https://github.com/user-attachments/assets/93ae21a6-4f91-48a1-ab47-b2d87cadd8ac" />
+
 
 
 ## 🛠️ Tech Stack
